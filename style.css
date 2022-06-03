@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.service{
+    background-image: url(./img/dmin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 37rem;
+}
+button:hover{
+    background-color: red;
+}
